@@ -1,4 +1,4 @@
-![대체 텍스트]([image_url.png](https://mypetlife.co.kr/150519/))
+![프로필 사진](https://mypetlife.co.kr/150519/))
 
 >삼성중공업에 기여할 수 있는 엔지니어가 되겠습니다.
 
